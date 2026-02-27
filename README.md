@@ -13,5 +13,4 @@ A scalable E-Commerce backend built with Laravel using RESTful API.
 ## Tech Stack
 - Laravel (Backend)
 - MySQL (Database)
-- Sanctum / JWT (Authentication)
 - RESTful API
